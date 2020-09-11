@@ -37,5 +37,5 @@ const evaluate_psl_weather = (local_weather) => {
 		return "it's IDEAL PSL time!"
 	}
 	return "it's PSL time!"
-}
 */
+}
